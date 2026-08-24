@@ -1,4 +1,4 @@
-# ZenPharma Dev Environment — managed via GitHub Actions CI/CD
+# comment added to test infra provistion using workflow
 locals {
   project = "pharma"
   env     = "dev"
