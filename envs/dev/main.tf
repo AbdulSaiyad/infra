@@ -1,4 +1,4 @@
-# comment added to test infra provistion using workflow
+# New Comment on Oct30 ZenPharma Dev Environment — managed via GitHub Actions CI/CD
 locals {
   project = "pharma"
   env     = "dev"
