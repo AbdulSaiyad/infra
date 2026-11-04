@@ -943,3 +943,4 @@ After completing this lab you have built and deployed real infrastructure — no
 ---
 
 *Built with Terraform 1.10+ · GitHub Actions · AWS EKS, RDS, ECR, VPC, IAM, Secrets Manager*
+
